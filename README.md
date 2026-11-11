@@ -7,13 +7,13 @@
 
 **One file. Works offline. Nothing leaves your computer.**
 
-**Version 1.10.4** · released 2026-11-11 · 620 KB
+**Version 1.11.0** · released 2026-11-11 · 688 KB
 
 ---
 
 ## 🚀 Get started
 
-1. Download **[`markdown-viewer.html`](markdown-viewer.html)** (version 1.10.4). On GitHub, open the file and choose **Download raw file**.
+1. Download **[`markdown-viewer.html`](markdown-viewer.html)** (version 1.11.0). On GitHub, open the file and choose **Download raw file**.
 2. Double-click it to open it in your browser. It works straight from disk; you need no internet connection.
 3. Click **Open** to choose a Markdown file or **Folder** to open a whole folder, or drag files onto the window.
 
@@ -31,7 +31,7 @@ To update, download the new `markdown-viewer.html` and replace your old copy wit
 - **Obsidian:** `[[wikilinks]]`, `![[embeds]]`, `%%comments%%`, `#tags` and every callout type.
 - **MkDocs, Docusaurus, VitePress, Pandoc, GitLab and Hugo:** admonitions, `:::` containers, `[[_TOC_]]`, and YAML or TOML front matter.
 - **Math:** TeX drawn as native MathML, including numbered equations with `\label`, `\eqref` and `\tag`.
-- **Diagrams:** Mermaid flowchart, sequence, state, class, ER, pie, Gantt, timeline, mind map, journey, quadrant, git graph, sankey and xychart, drawn as SVG by a built-in engine.
+- **Diagrams:** every Mermaid 12 diagram type plus ZenUML (flowchart, swimlanes, sequence, ZenUML, class, state, ER, journey, Gantt, pie, quadrant, requirement, use case, git graph, C4, mind map, timeline, sankey, XY chart, block, packet, kanban, architecture, radar, event modeling, treemap, Venn, Ishikawa, Wardley, Cynefin and TreeView), drawn as SVG by a built-in engine, with colours from `classDef`, `style` and `linkStyle`.
 - **Syntax highlighting** for about 30 languages.
 
 ### Works on your files
