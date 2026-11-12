@@ -7,13 +7,13 @@
 
 **One file. Works offline. Nothing leaves your computer.**
 
-**Version 1.11.0** · released 2026-11-11 · 688 KB
+**Version 1.12.0** · released 2026-11-12 · 843 KB
 
 ---
 
 ## 🚀 Get started
 
-1. Download **[`markdown-viewer.html`](markdown-viewer.html)** (version 1.11.0). On GitHub, open the file and choose **Download raw file**.
+1. Download **[`markdown-viewer.html`](markdown-viewer.html)** (version 1.12.0). On GitHub, open the file and choose **Download raw file**.
 2. Double-click it to open it in your browser. It works straight from disk; you need no internet connection.
 3. Click **Open** to choose a Markdown file or **Folder** to open a whole folder, or drag files onto the window.
 
@@ -41,6 +41,8 @@ To update, download the new `markdown-viewer.html` and replace your old copy wit
 
 ### Writing and editing
 - **Split editor** with live preview and scroll sync. Double-click the preview to jump to that line in the source.
+- **Syntax highlighting and line numbers**, a **formatting bar**, **`/` commands** for blocks and every diagram type, and **smart typing** that closes brackets, wraps selections and finishes code blocks.
+- **Problems panel:** broken heading links, missing references and footnotes, images without alt text, heading jumps, table mistakes, unclosed code blocks and diagrams that cannot be drawn, each one click away from its line.
 - **Shortcuts** for formatting, lists, tables, moving lines and moving sections; **find and replace** with regex.
 - **Autocomplete** for emoji, note names, headings and paths.
 - **Insert menu**, **templates** and **daily notes**.
