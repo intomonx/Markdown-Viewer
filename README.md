@@ -7,13 +7,13 @@
 
 **One file. Works offline. Nothing leaves your computer.**
 
-**Version 1.12.0** · released 2026-11-12 · 843 KB
+**Version 1.12.1** · released 2026-11-13 · 853 KB
 
 ---
 
 ## 🚀 Get started
 
-1. Download **[`markdown-viewer.html`](markdown-viewer.html)** (version 1.12.0). On GitHub, open the file and choose **Download raw file**.
+1. Download **[`markdown-viewer.html`](markdown-viewer.html)** (version 1.12.1). On GitHub, open the file and choose **Download raw file**.
 2. Double-click it to open it in your browser. It works straight from disk; you need no internet connection.
 3. Click **Open** to choose a Markdown file or **Folder** to open a whole folder, or drag files onto the window.
 
