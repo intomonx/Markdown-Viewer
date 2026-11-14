@@ -7,13 +7,13 @@
 
 **One file. Works offline. Nothing leaves your computer.**
 
-**Version 1.14.0** · released 2026-11-14 · 817 KB
+**Version 1.14.1** · released 2026-11-14 · 798 KB
 
 ---
 
 ## 🚀 Get started
 
-1. Download **[`markdown-viewer.html`](markdown-viewer.html)** (version 1.14.0). On GitHub, open the file and choose **Download raw file**.
+1. Download **[`markdown-viewer.html`](markdown-viewer.html)** (version 1.14.1). On GitHub, open the file and choose **Download raw file**.
 2. Double-click it to open it in your browser. It works straight from disk; you need no internet connection.
 3. Click **Open** to choose a Markdown file or **Folder** to open a whole folder, or drag files onto the window.
 
@@ -103,4 +103,4 @@ Copyright © 2026 Shintomon Mathew.
 
 Markdown Viewer is free software under the [GNU General Public License v3.0](LICENSE).
 
-It contains no third-party libraries. Its Markdown lexer, document styles and emoji table are its own, adapted from [Marked](https://github.com/markedjs/marked), [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) and [gemoji](https://github.com/github/gemoji) (all MIT). Their license texts are included in `markdown-viewer.html`.
+It contains no third-party libraries. Third-party notices are in the app: **Help → About**.
